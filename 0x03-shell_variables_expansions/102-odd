@@ -1,0 +1,3 @@
+#!/bin/bash
+-d,  - - | cut -d, -f1
+
